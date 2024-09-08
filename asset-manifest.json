@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Semana3-Simulador/static/css/main.73f41aa6.css",
-    "main.js": "/Semana3-Simulador/static/js/main.11ba3ae7.js",
+    "main.js": "/Semana3-Simulador/static/js/main.0fcecc03.js",
     "static/js/453.0f5106d6.chunk.js": "/Semana3-Simulador/static/js/453.0f5106d6.chunk.js",
     "static/media/1.png": "/Semana3-Simulador/static/media/1.ffcf67e63dce571479ae.png",
     "index.html": "/Semana3-Simulador/index.html",
     "main.73f41aa6.css.map": "/Semana3-Simulador/static/css/main.73f41aa6.css.map",
-    "main.11ba3ae7.js.map": "/Semana3-Simulador/static/js/main.11ba3ae7.js.map",
+    "main.0fcecc03.js.map": "/Semana3-Simulador/static/js/main.0fcecc03.js.map",
     "453.0f5106d6.chunk.js.map": "/Semana3-Simulador/static/js/453.0f5106d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73f41aa6.css",
-    "static/js/main.11ba3ae7.js"
+    "static/js/main.0fcecc03.js"
   ]
 }
